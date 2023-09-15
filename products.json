@@ -1,0 +1,20 @@
+[
+    {
+    "name" : "iphone11",
+    "price" : 154,
+    "featured" : true,
+    "company" : "apple"
+    },
+    {
+        "name" : "iphone12",
+        "price" : 1540,
+        "featured" : false,
+        "company" : "apple"
+    },
+    {
+        "name" : "Galaxy53",
+        "price" : 134,
+        "featured" : true,
+        "company" : "samsung"
+    }
+]
